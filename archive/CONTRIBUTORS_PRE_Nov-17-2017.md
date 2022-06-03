@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [anirudhkejriwal4991](https://github.com/anirudhkejriwal4991)
+- Place: Bengaluru, Karnataka, India
+- Bio: Web Developer
+- GitHub: [anirudhkejriwal4991](https://github.com/anirudhkejriwal4991)
